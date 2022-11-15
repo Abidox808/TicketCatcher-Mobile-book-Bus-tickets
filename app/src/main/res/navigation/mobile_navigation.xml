@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_reservation">
+
+    <fragment
+        android:id="@+id/nav_reservation"
+        android:name="com.said.supra.frags.reservation"
+        android:label="@string/menu_reservation"
+        tools:layout="@layout/fragment_reservation" />
+    <fragment
+        android:id="@+id/nav_mytickets"
+        android:name="com.said.supra.frags.tickets"
+        android:label="@string/menu_tickets"
+        tools:layout="@layout/fragment_tickets" />
+    <fragment
+        android:id="@+id/nav_nosagences"
+        android:name="com.said.supra.frags.nosagences"
+        android:label="@string/menu_nosagences"
+        tools:layout="@layout/fragment_nosagences" />
+    <fragment
+        android:id="@+id/nav_infobagages"
+        android:name="com.said.supra.frags.infobagages"
+        android:label="Info Bagages"
+        tools:layout="@layout/fragment_infobagages" />
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.said.supra.frags.logout"
+        android:label="@string/menu_logout"
+        tools:layout="@layout/fragment_logout" />
+</navigation>
