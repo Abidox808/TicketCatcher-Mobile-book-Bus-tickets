@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.said.supra"
+        applicationId "com.said.TicketCatcher"
         minSdk 21
         targetSdk 32
         versionCode 1
