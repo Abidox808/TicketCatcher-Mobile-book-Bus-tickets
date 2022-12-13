@@ -73,6 +73,7 @@ public class reservation_payment extends AppCompatActivity {
 
                 Intent back = new Intent(reservation_payment.this , NavDrawerActivity.class);
                 startActivity(back);
+                finish();
                 dialog.dismiss();
             }
         });
