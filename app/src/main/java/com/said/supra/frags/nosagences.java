@@ -27,21 +27,24 @@ public class nosagences extends Fragment {
         supportMapFragment.getMapAsync(new OnMapReadyCallback() {
             @Override
             public void onMapReady(@NonNull GoogleMap googleMap) {
-                googleMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
-                    @Override
-                    public void onMapClick(@NonNull LatLng latLng) {
-                        MarkerOptions markerOptions = new MarkerOptions();
-                        //set position of marker
-                        LatLng pos = new LatLng(30.4645296,-8.8773316);
-                        markerOptions.position(pos);
-                        //set title of marker
-                        markerOptions.title(latLng.latitude + " : " + latLng.longitude);
-                        googleMap.clear();
-                        googleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng,2));
-                        googleMap.addMarker(markerOptions);
-                        googleMap.moveCamera(CameraUpdateFactory.newLatLng(pos));
-                    }
-                });
+                //set position of marker
+                LatLng Agadir = new LatLng(30.4163782,-9.5679348);
+                LatLng Marrakech = new LatLng(31.630626,-8.0193754);
+                LatLng Casablanca = new LatLng(33.57465,-7.59092);
+                LatLng Rabat = new LatLng(33.9682227,-6.8842381);
+                LatLng Tanger = new LatLng(35.7285848,-5.8638637);
+                googleMap.clear();
+                googleMap.addMarker(new MarkerOptions().position(Agadir).title("Gare Agadir"));
+                googleMap.moveCamera(CameraUpdateFactory.newLatLng(Agadir));
+                googleMap.addMarker(new MarkerOptions().position(Marrakech).title("Gare Marrakech"));
+                googleMap.moveCamera(CameraUpdateFactory.newLatLng(Marrakech));
+                googleMap.addMarker(new MarkerOptions().position(Casablanca).title("Gare Casablanca"));
+                googleMap.moveCamera(CameraUpdateFactory.newLatLng(Casablanca));
+                googleMap.addMarker(new MarkerOptions().position(Rabat).title("Gare Rabat"));
+                googleMap.moveCamera(CameraUpdateFactory.newLatLng(Rabat));
+                googleMap.addMarker(new MarkerOptions().position(Tanger).title("Gare Tanger"));
+                googleMap.moveCamera(CameraUpdateFactory.newLatLng(Tanger));
+                googleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(Agadir,5));
             }
         });
 
