@@ -26,7 +26,7 @@ Luggages Policy.
 ![SignUp Page](https://i.ibb.co/MPW9R5J/signup.png)
 
 # Menu
-![Menu Page](https://i.ibb.co/1fq1vVG/nav.png)
+![Nav Page](https://i.ibb.co/1fq1vVG/nav.png)
 
 # Update Profile Info
 ![Profile Page](https://i.ibb.co/GW4198J/profile.png)
