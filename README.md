@@ -1,19 +1,21 @@
 
 # TicketCatcher
 
-TicketCatcher is an app to book your tickets from local autocars in morocco .
+TicketCatcher is an Android application to book Bus tickets to travel between Cities in your Country, the app Offers are totally based on Morocco and its cities, you can change that and enjoy the best app in my town ( xd jk ) .
 
 # Features
 
 Login - SignUp - SignOut .
 
-Booking ( Steats choice , Booking Confirmartion with payment)
+Booking ( choose Your Seat , Booking Confirmartion with payment)
 
 Tickets Management ( Display booked tickets {Depart , Destination , price ... etc})
 
-Agencies ( Google Map with Markers Displaying the agencies in the Map and their Locations)
+Agencies ( Google Map Integrated with Markers Displaying the agencies in the Map and their Locations)
 
-Luggages Policy.
+Luggages Policy ( static page )
+
+Sqlite Database ( you can change use firebase or any other DBMS )
 
 # NOTE:
 # the APK file is included under the name " TicketCatcher.apk "
