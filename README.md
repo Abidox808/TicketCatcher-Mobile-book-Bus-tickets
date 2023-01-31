@@ -20,19 +20,19 @@ Luggages Policy.
 
 #Login
 --------------------------------------------------
-![Login Page](https://ibb.co/fkzK9yS)
---------------------------------------------------
-#SignUp
+![Login Page](https://i.ibb.co/NZccDYS/login.png)
+
+# SignUp
 ![SignUp Page](https://i.ibb.co/MPW9R5J/signup.png)
 --------------------------------------------------
-#Menu
+# Menu
 ![Menu Page](https://i.ibb.co/1fq1vVG/nav.png)
 --------------------------------------------------
-#Update_Profile_Info
+# Update Profile Info
 ![Profile Page](https://i.ibb.co/GW4198J/profile.png)
 --------------------------------------------------
-#Reservation+Buses_Offers
+# Reservation + Bus_Offers
 ![Reservation Page](https://i.ibb.co/PN8WXNJ/offers.png)
 --------------------------------------------------
-#Book_Your_Seat
+# Book Your Seats
 ![Seats Page](https://i.ibb.co/fkvQGRL/book-seat.png)
