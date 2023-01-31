@@ -25,13 +25,13 @@ Luggages Policy.
 #SignUp
 ![SignUp Page](https://i.ibb.co/MPW9R5J/signup.png)
 --------------------------------------------------
-#NavDrawer-Menu
+#Menu
 ![Menu Page](https://i.ibb.co/1fq1vVG/nav.png)
 --------------------------------------------------
 #Update_Profile_Info
 ![Profile Page](https://i.ibb.co/GW4198J/profile.png)
 --------------------------------------------------
-#Reservation + Buses_Offers
+#Reservation+Buses_Offers
 ![Reservation Page](https://i.ibb.co/PN8WXNJ/offers.png)
 --------------------------------------------------
 #Book_Your_Seat
