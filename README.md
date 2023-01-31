@@ -37,3 +37,15 @@ Luggages Policy.
 # Book Your Seats
 ![seats Page](https://i.ibb.co/n188j07/book-seat.png)
 
+# Payment
+![seats Page](https://i.ibb.co/d2t9SvG/Payment.png)
+
+# MyTickets
+![seats Page](https://i.ibb.co/7gzXvzf/Mytickets.png)
+
+# Agency Locations in google Maps integrated
+![seats Page](https://i.ibb.co/hd5GqYC/google-Maps.png)
+
+# that's All, hope you can use my perfect good and build something better.
+# Cheers, Abidox Mol djaj.
+
