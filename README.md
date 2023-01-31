@@ -46,6 +46,6 @@ Luggages Policy.
 # Agency Locations in google Maps integrated
 ![maps Page](https://i.ibb.co/hd5GqYC/google-Maps.png)
 
-# that's All, hope you can use my perfect good and build something better.
+# that's All, hope you can use my perfect code and build something better.
 # Cheers, Abidox Mol djaj.
 
