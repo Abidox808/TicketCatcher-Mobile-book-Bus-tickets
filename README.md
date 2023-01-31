@@ -35,5 +35,5 @@ Luggages Policy.
 ![Reservation Page](https://i.ibb.co/PN8WXNJ/offers.png)
 
 # Book Your Seats
-![seats Page](https://i.ibb.co/fkvQGRL/book-seat.png)
+![seats Page](https://i.ibb.co/n188j07/book-seat.png)
 
