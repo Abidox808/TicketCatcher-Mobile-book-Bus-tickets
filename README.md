@@ -34,3 +34,6 @@ Luggages Policy.
 # Reservation + Bus_Offers
 ![Reservation Page](https://i.ibb.co/PN8WXNJ/offers.png)
 
+# Book Your Seats
+![seats Page](https://i.ibb.co/fkvQGRL/book-seat.png)
+
