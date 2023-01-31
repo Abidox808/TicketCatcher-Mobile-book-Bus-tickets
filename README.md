@@ -19,4 +19,7 @@ Luggages Policy.
 # the APK file is included under the name " TicketCatcher.apk "
 
 #Login
+--------------------------------------------------
 ![Login Page](https://i.ibb.co/NZccDYS/login.png)
+--------------------------------------------------
+![SignUp Page](https://i.ibb.co/MPW9R5J/signup.png)
